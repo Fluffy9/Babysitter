@@ -1,5 +1,6 @@
-# Babysitter
+# [Babysitter](https://fluffy9.github.io/Babysitter/#/)
 UI for the Babysitter service for [cudl.finance](https://cudl.finance). 
+
 
 1. Keeps your pet alive without your daily involvement.
 2. Saves time by automating mining/feeding multiple pets.
